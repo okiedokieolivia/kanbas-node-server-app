@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This assignment delves into the intricacies of movement mechanisms, exploring various systems that drive forward motion in vehicles and devices."
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "course": "RS101",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This assignment delves into the detailed study of how substances burn and release energy. Students will explore the chemical reactions behind combustion, evaluate its environmental impacts, and investigate methods to optimize efficiency."
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This project focuses on the engineering and principles behind the creation of nozzles used in various applications, from rocket engines to industrial machinery. "
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "It is designed to test students' grasp of the principles and concepts underlying the behavior of air around objects."
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "Students will investigate the principles of laminar and turbulent flows, utilize analytical tools to visualize flow patterns, and interpret the significance of their findings in real-world contexts. "
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This project is essential for those delving into thermal engineering, offering insights into optimizing energy consumption and ensuring safe heating practices in everyday applications."
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "course": "RS103",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": " This task not only tests theoretical knowledge but also encourages innovative thinking to address real-world structural challenges, ensuring safety and sustainability."
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This exercise reinforces the intricate dance of celestial mechanics and equips learners with the tools to understand and navigate the vast expanse of outer space."
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "course": "RS103",
+    "due": "2023-10-17",
+    "points": 100,
+    "description": "This exam ensures that students have a robust grasp of the holistic perspective required in systems engineering, emphasizing the coordination of different components to achieve desired functionalities efficiently."
+  }
+]
