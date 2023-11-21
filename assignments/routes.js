@@ -25,11 +25,19 @@ function AssignmentRoutes(app) {
     const assignmentIndex = db.assignments.findIndex(
       (assignment) => assignment._id === id
     );
-    db.assignments[assignmentIndex] = {
+    const assignment = {
       ...db.assignments[assignmentIndex],
       ...req.body,
     };
-    res.sendStatus(200);
+
+    // db.assignments[assignmentIndex] = {
+    //   ...db.assignments[assignmentIndex],
+    //   ...req.body,
+    // };
+    db.assignments[assignmentIndex] = assignment;
+
+    //res.sendStatus(200);
+    res.send(assignment);
   });
 
   // delete assignment
